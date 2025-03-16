@@ -81,11 +81,6 @@ The application will open in your default browser at **http://localhost:8501/**.
 
 ---
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 🤝 Contributing
 Feel free to fork, modify, and raise **pull requests**! If you find any issues, report them under **Issues**.
 
